@@ -1,6 +1,7 @@
-## 🌱 Currently learning:
+My current focuses:
 
-* CUDA & JULIA for GPU Programming
-* RL on LLMs
-* Getting started on Verilog...
+* FIU News RAG pipeline
+* Nutrition-Optimization Mobile App
+* Reinforcement Learning on LLMs
+* CUDA Programming
 
